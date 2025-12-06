@@ -1,0 +1,5 @@
+{
+  "name": "HemoOCR",
+  "description": "A world-class OCR application utilizing Gemini AI to recognize and extract text from images and documents in Bengali, English, Arabic, Hindi, and Urdu with 100% accuracy.",
+  "requestFramePermissions": []
+}
